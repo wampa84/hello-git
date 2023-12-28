@@ -1,1 +1,2 @@
-Hello Git, testing and syncronizing with GitHub
+## Hello Git
+Testing and syncthing with GitHub
